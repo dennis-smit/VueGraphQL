@@ -12,16 +12,16 @@
     "author": "Reed Barger",
     "license": "ISC",
     "dependencies": {
-        "apollo-server": "^2.0.0-rc.7",
-        "bcrypt": "^3.0.0",
-        "dotenv": "^6.0.0",
-        "graphql": "^0.13.2",
-        "jsonwebtoken": "^8.3.0",
+        "apollo-server": "^2.8.1",
+        "bcrypt": "^3.0.6",
+        "dotenv": "^8.0.0",
+        "graphql": "^14.4.2",
+        "jsonwebtoken": "^8.5.1",
         "md5": "^2.2.1",
-        "mongoose": "^5.2.6"
+        "mongoose": "^5.6.9"
     },
     "devDependencies": {
-        "concurrently": "^3.6.0",
-        "nodemon": "^1.18.1"
+        "concurrently": "^4.1.1",
+        "nodemon": "^1.19.1"
     }
 }
