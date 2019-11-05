@@ -18,7 +18,7 @@
         "graphql": "^14.4.2",
         "jsonwebtoken": "^8.5.1",
         "md5": "^2.2.1",
-        "mongoose": "^5.6.9"
+        "mongoose": "^5.7.5"
     },
     "devDependencies": {
         "concurrently": "^4.1.1",
